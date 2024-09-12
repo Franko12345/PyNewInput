@@ -1,4 +1,4 @@
-# PyDirectInput
+# PyNewInput
 
 This library aims to replicate the functionality of the PyDirectInput mouse and keyboard inputs, but by utilizing NewInput you can use the duration on moveTo(x, y, duration) and move(x, y, duration).
 
@@ -29,7 +29,6 @@ You might also be interested in the main SendInput documentation here: https://d
 ## Features NOT Implemented
 
 - scroll functions
-- drag functions
 - hotkey functions
 - support for special characters requiring the shift key (ie. '!', '@', '#'...)
 - ignored parameters on mouse functions: logScreenshot
